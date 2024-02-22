@@ -17,6 +17,7 @@
 <a href="https://logowik.com/openai-chat-gpt-5-logo-vector-56774.html"><img src="https://static.vecteezy.com/system/resources/previews/021/059/827/original/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="40" height="40"></a>
 </p>
 
+<h3 align="left">Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RISHIT7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RISHIT7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
