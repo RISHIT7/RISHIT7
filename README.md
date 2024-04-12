@@ -2,7 +2,7 @@
 <h2 align =  "center">2nd Year Computer Science Undergrad at IIT Delhi</h2>
 
 - 🌱 I’m currently learning about Programming Languages, Computer Architecture and Machine Learning
-- 📫 Reach me at, rishitjakharia@gmail.com
+- 📫 Reach me at rishitjakharia@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love to dance! 😃
 
@@ -33,4 +33,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RISHIT7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RISHIT7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="http://www.github.com/RISHIT7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHIT7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
