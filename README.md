@@ -31,6 +31,7 @@
 
 <h3 align="left">Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RISHIT7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RISHIT7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityjhaa&hide_title=true&show_icons=true&theme=radical&locale=en&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityjhaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=adityjhaa&locale=en&mode=daily&theme=radical&hide_border=true" height="160" />
 </div>
