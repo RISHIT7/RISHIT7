@@ -1,4 +1,4 @@
-<h1 align = "center">Hi there, I'm Rishit Jakharia! 👋</h1> 
+<h1 align = "center">Hi there! I'm Rishit Jakharia! 👋</h1> 
 <h2 align =  "center">3rd Year Computer Science Undergrad at IIT Delhi</h2>
 
 - 🌱 I’m currently learning about Programming Languages, Computer Architecture and Machine Learning
