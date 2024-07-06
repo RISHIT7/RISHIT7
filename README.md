@@ -13,23 +13,36 @@
   <a href="https://linkedin.com/in/rishit-jakharia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishit jakharia" height="30" width="40" /></a>
     <a href="https://www.instagram.com/rishitjakharia_37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishit jakharia" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/rishitjakharia"><img align = "center" alt="Kaggle" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628869-3030009.png?f=webp&w=256" alt = "rishit jakharia" height="30" width="40"></a>
- </div>
+</div>
 
-<h3 align="left">Currently Working with</h3>
+<h3 align="left">Currently Working with languages</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=yAk24Bd8TOKS&format=png&color=000000" height="40" alt="sql logo"  />
+</div>
+
+<h3 align="left">Libraries and Frameworks</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" height="40" alt="huggingface logo"  />
+  <img width="12" />
+  <img src="https://jumpstick.s3.amazonaws.com/favicons/0c201edc12f5d481463583f5b2bf12f1.png" height="40" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="40" alt="microsoft sql server logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 <h3 align="left">Stats</h3>
