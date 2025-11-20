@@ -1,5 +1,5 @@
 <h1 align = "center">Hi there! this is Rishit Jakharia! 👋</h1> 
-<h2 align =  "center">3rd Year Computer Science Undergrad at IIT Delhi</h2>
+<h2 align =  "center">4th Year Computer Science Undergrad at IIT Delhi</h2>
 
 - 🌱 I’m currently learning about Programming Languages, Computer Architecture and Machine Learning
 - 📫 Reach me at rishitjakharia@gmail.com
